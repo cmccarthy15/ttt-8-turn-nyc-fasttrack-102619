@@ -31,5 +31,6 @@ def turn
   # check if its a valid move
   # if it is... make the move
   # else ask for the input again... until you get a valid input 
+  # end
   
 end
