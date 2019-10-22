@@ -26,4 +26,10 @@ end
 
 def turn
    puts "Please enter 1-9:"
+  # get input from the user and save to a local_variables
+  # convert it from input to index
+  # check if its a valid move
+  # if it is... make the move
+  # else ask for the input again... until you get a valid input 
+  
 end
